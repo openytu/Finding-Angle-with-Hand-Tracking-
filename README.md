@@ -9,13 +9,12 @@ Resimde de görüldüğü gibi parmak uçlarımızla oluşturduğumuz üçgenin 
 Gelin yazılımı birlikte test edelim. İlk olarak repoyu klonlayalım.
 ```shell
 
-git clone https://github.com/yunusemre2334/yolov8
-
+git clone https://github.com/openytu/Finding-Angle-with-Hand-Tracking-
 ```
 Şimdi yazılımı çalıştırabiliriz.
 ```shell
 
-python finding_angle.py 
+python el_takibiyle_acı_bulma.py 
 
 ```
 

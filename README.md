@@ -6,4 +6,17 @@
 
 Resimde de görüldüğü gibi parmak uçlarımızla oluşturduğumuz üçgenin açıları dahi başarılı bir şekilde hesaplanmıştır. İsterseniz 180 dereceyi bile deneyebilirsiniz :)
 
-Gelin yazılımı birlikte test edelim.
+Gelin yazılımı birlikte test edelim. İlk olarak repoyu klonlayalım.
+```shell
+
+git clone https://github.com/yunusemre2334/yolov8
+
+```
+Şimdi yazılımı çalıştırabiliriz.
+```shell
+
+python finding_angle.py 
+
+```
+
+Github repomuzdaki görüntü işleme ve bilgisayarlı görü alanlarında tarafımızca yazılan yazılımları kendi projelerinizde de kaynak göstererek gönül rahatlığıyla kullanabilirsiniz.

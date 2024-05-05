@@ -3,3 +3,7 @@
   Daha önce birçoğunuz hand estimation yapmışşınızdır ama bunu kullanarak ileri seviye ne gibi görüntü işleme projeleri yapabiliriz sorusuna bir cevap niteliğinde bu repoyu hazırladık.
 
 <img src="./finding_angle.png" alt="Finding Angle" width="720">
+
+Resimde de görüldüğü gibi parmak uçlarımızla oluşturduğumuz üçgenin açıları dahi başarılı bir şekilde hesaplanmıştır. İsterseniz 180 dereceyi bile deneyebilirsiniz :)
+
+Gelin yazılımı birlikte test edelim.
